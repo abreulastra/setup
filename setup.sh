@@ -20,6 +20,9 @@ npm install -g jshint
 # Install express module
 npm install express
 
+# Install require module
+npm install request
+
 # Install rlwrap to provide libreadline features with node
 # See: http://nodejs.org/api/repl.html#repl_repl
 sudo apt-get install -y rlwrap
